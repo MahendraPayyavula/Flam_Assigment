@@ -436,6 +436,8 @@ Backend Developer Internship Assignment - QueueCTL Implementation
 
 Enjoy using QueueCTL! 🎉
 
+# Architecture:
+<img width="1636" height="532" alt="Screenshot 2025-11-13 112724" src="https://github.com/user-attachments/assets/99de5a92-3c1a-4e4b-a948-c62e61dcb24b" />
 
 
 
